@@ -39,7 +39,10 @@ body {
     margin: 0px;
     overflow: hidden;
   }
-  
+  .borders {
+    border: 8px double aqua;
+    outline: 8px double black;
+  }
   #wrapper {
     aspect-ratio: 1.618;
     width: 90vmin;
